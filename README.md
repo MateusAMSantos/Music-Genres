@@ -1,9 +1,9 @@
-# Top-Music-Genres
+# Top Music Genres by Countries
 
 
 
 
-# Housing in Paris
+
 
 ## Description
 
@@ -14,17 +14,14 @@ I used **Python**, especially the packages <b/>BeautifulSoup<b/> and <b/>Pandas<
 ## Softwares
 
 - Python
-- Power BI
+- Tableau
 
 ## Code
 
 In order to not pollute this repository, I left the program used in the repository files, which I invite you to take a look. The jupyter notebook file presents you with the code and the direct results, which could be a bit overwhelming, so I also made the python file available, which only presents the code.
 
-## Power BI results
+## Tableau result
 
-![Result 1](Housing_1.png)
-
-![Result 2](Housing_2.png)
- 
+![Result](Music.png)
 
 
